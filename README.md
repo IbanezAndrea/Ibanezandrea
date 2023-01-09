@@ -2,16 +2,23 @@
 ### Hi there, I'm Andrea!
 #### 📌 Full Stack MERN Developer
 A quite **curious** person eager to learn and work on new opportunities in the world of technology! 🚀
-<p align="center">
 
+
+<div align="center">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibanezandrea&show_icons=true&theme=radical)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ibanezandrea&theme=radical)  
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibanezandrea&layout=compact&theme=radical)
-  </p>
+  </div>
 <h2> &nbsp;Dev Tech </h2>
-<p align="left">
+<div align="center">
+  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibanezandrea&layout=compact&theme=radical) 
+  
+  
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
@@ -23,5 +30,6 @@ A quite **curious** person eager to learn and work on new opportunities in the w
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
 
-     
-</p>
+
+
+</div>
