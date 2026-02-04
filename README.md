@@ -1,21 +1,18 @@
 ### 
 ### Hi there, I'm Andrea!
-#### 📌 Full Stack MERN Developer
-A quite **curious** person eager to learn and work on new opportunities in the world of technology! 🚀
+#### Junior Developer from Argentina 🇦🇷
+MERN Stack | Oracle APEX | SQL
+Always learning, building projects and breaking things to understand how they work.
 
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibanezandrea&show_icons=true&theme=radical)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ibanezandrea&theme=radical)  
   
   </div>
 <h2> &nbsp;Dev Tech </h2>
 <div align="center">
-  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibanezandrea&layout=compact&theme=radical) 
   
   
   
@@ -29,6 +26,12 @@ A quite **curious** person eager to learn and work on new opportunities in the w
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 
 
 
